@@ -15,6 +15,9 @@ I enjoy learning how systems work and solving problems through code.
 
 ⚡ I like building projects and experimenting with code
 
+
+
+
 🚀 Skills
 
 Python programming
@@ -26,6 +29,9 @@ Problem solving
 Git and version control
 
 Basic computer hardware knowledge
+
+
+
 
 🛠 Languages & Tools
 
