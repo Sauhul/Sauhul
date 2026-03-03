@@ -10,7 +10,7 @@ I'm a student passionate about technology and programming.
 I enjoy learning how systems work and solving problems through code.
 
 - 🎓 Currently improving my programming skills
-- 💻 Interested in software development and cybersecurity
+- 💻 Interested in software development
 - 🚀 Always learning new technologies
 - ⚡ Motivated to build real-world projects
 
